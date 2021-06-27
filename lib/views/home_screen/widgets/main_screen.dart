@@ -41,7 +41,7 @@ class Home extends StatelessWidget {
                 ),
                 Gap(15),
                 Image(
-                  image: const AssetImage('assets/images/png/airtel_logo.png'),
+                  image: const AssetImage('assets/images/png/airtel_white.png'),
                   width: 70,
                   height: 40,
                 ),
